@@ -26,4 +26,5 @@ In my current role, I’ve reduced reporting turnaround time by 61% and helped c
 
 - LinkedIn :https://linkedin.com/in/abijahkabiro
 - Email:abijahkabiro2@gmail.com
-- Medium : https://medium.com/@abijahkabiro 
+- Medium : https://medium.com/@abijahkabiro
+- Portfolio : https://abijahkabiro.github.io/ 
