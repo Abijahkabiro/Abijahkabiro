@@ -17,7 +17,7 @@ In my current role, I’ve reduced reporting turnaround time by 61% and helped c
 | Analytics | Engineering | Visualisation |
 |---|---|---|
 | Advanced SQL | Python (Pandas) | Power BI (DAX, RLS) |
-| Data Modelling | ETL/ELT Pipelines | Excel (Power Query) |
+| Data Modelling | ETL/ELT Pipelines | Excel (Power Query),Google Sheets |
 | KPI Frameworks | Git & GitHub | Dashboard Automation |
 
 ---
