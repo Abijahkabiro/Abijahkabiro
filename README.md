@@ -2,7 +2,7 @@
 # 
 I'm Abijah Kabiro 👋
 
-## Data Analytics Professional | Nairobi, Kenya
+## Business Intelligence Analyst | Nairobi, Kenya
 
 I am a data professional with 4+ years of experience turning 
 complex operational data into clear business insights. 
