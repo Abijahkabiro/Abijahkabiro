@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 
-I'm Abijah Kabiro 👋
+I'm Abijah Kabiro
 
 ## Business Intelligence Analyst | Nairobi, Kenya
 
