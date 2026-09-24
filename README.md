@@ -2,7 +2,7 @@
 
 # I'm Abijah Kabiro
 
-## Business Intelligence Analyst | Nairobi, Kenya
+## Data Analyst | Nairobi, Kenya
 
 I am a data professional with 4+ years of experience turning 
 complex operational data into clear business insights. 
@@ -17,7 +17,7 @@ In my current role, I’ve reduced reporting turnaround time by 61% and helped c
 | Analytics | Engineering | Visualisation |
 |---|---|---|
 | Advanced SQL | Python (Pandas) | Power BI (DAX, RLS) |
-| Data Modelling | ETL/ELT Pipelines | Excel (Power Query),Google Sheets |
+| Data Modelling | ETL/ELT Pipelines | Advanced Excel (Power Query),Google Sheets |
 | KPI Frameworks | Git & GitHub | Dashboard Automation |
 
 ---
