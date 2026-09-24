@@ -6,7 +6,7 @@
 
 I am a data professional with 4+ years of experience turning 
 complex operational data into clear business insights. 
-Currently building towards Data Engineering.
+
 
 In my current role, I’ve reduced reporting turnaround time by 61% and helped cut operational costs by 27% through data-driven analysis.
 
